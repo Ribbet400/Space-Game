@@ -1,6 +1,7 @@
 # Space-Game
 
 **How to play**
+
 Enter a username and room name before starting a game
 
 Press HOST to host a server, and JOIN to join the current surver with the entered room name
@@ -21,6 +22,7 @@ L for leaderboard, M for settings  (can be swapped between by pressing other key
 
 
 **Credits**
+
 Sci-Fi Dramatic Theme by Twisterium | https://www.twisterium.com/
 Music promoted by https://www.chosic.com/
 Licensed under Creative Commons: Attribution 3.0 Unported (CC BY 3.0)
